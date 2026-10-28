@@ -1,0 +1,13 @@
+{
+  "name": "example-java-swing-app",
+  "private": true,
+  "type": "module",
+  "description": "How to Automate Testing of a Java Swing Application",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "testdriverai": "latest",
+    "vitest": "^4.0.18"
+  }
+}
